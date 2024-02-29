@@ -40,7 +40,7 @@ Ensure the following prerequisites are installed before running the application:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/zeeshanibrarali/FoodShare
+git clone https://github.com/AbdulHaseebAlam/FoodShare.git
 cd FoodShare
 cd mern
 npm install
